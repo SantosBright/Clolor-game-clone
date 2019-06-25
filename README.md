@@ -73,6 +73,4 @@ animate the squares
 
 pt.7
 refractor the hard and easy eventlisteners
-
-
-
+refractor reset function code
