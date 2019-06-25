@@ -14,7 +14,7 @@ body{
     background: cornflowerblue;
     padding-top: 30%;
     float: left;
-    transition: background-color .5s ease-in-out;
+    transition: background-color .5s ease-out;
     border-radius: 15%;
 }
 h1{

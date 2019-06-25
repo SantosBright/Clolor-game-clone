@@ -66,3 +66,13 @@ when hard button is clicked,
     update text content of color display
 
 
+pt.6
+style the h1
+style the buttons
+animate the squares
+
+pt.7
+refractor the hard and easy eventlisteners
+
+
+
