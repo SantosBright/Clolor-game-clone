@@ -18,6 +18,11 @@ body{
 h1{
     color: white;
 }
-#messageDisplay{
+/* #messageDisplay{
     color: white;
+} */
+#stripe{
+    height: 30px;
+    background: white;
+    text-align: center;
 }
