@@ -48,4 +48,21 @@ add an click listener to the button
 pt.5
 add hard and easy button to impact on the game
 define a class
-    background blue
+    give the blue background
+    add class to hard button
+when easy button is clicked,
+    removed the class from the hard button and 
+    add the class to the easy button and do the same to the hard button
+    generate new colors 
+    pick a new color
+    loop through squares and add colors to them
+    loop through the last 3 squares and display them none 
+    update text content of color display
+when hard button is clicked,
+    generate new colors 
+    pick a new color
+    loop through squares and add colors to them
+    loop through all squares and display them block
+    update text content of color display
+
+
