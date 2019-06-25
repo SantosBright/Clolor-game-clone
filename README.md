@@ -76,3 +76,6 @@ refractor the hard and easy eventlisteners
 refractor reset function code
 
 pt.8
+init a function to start the game 
+refractor loops
+refractor variables
